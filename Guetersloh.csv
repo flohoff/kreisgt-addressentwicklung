@@ -688,6 +688,7 @@ Am Anger 55 Gütersloh
 Am Anger 56 Gütersloh
 Am Anger 57 Gütersloh
 Am Anger 59 Gütersloh
+Am Anger 61 Gütersloh
 Am Anger 63 Gütersloh
 Am Anger 65 Gütersloh
 Am Anger 67 Gütersloh
@@ -696,7 +697,6 @@ Am Anger 7 Gütersloh
 Am Anger 71 Gütersloh
 Am Anger 73 Gütersloh
 Am Anger 75 Gütersloh
-Am Anger 77 Gütersloh
 Am Anger 79 Gütersloh
 Am Anger 81 Gütersloh
 Am Anger 83 Gütersloh
@@ -1858,6 +1858,7 @@ Anna-Voß-Straße 14 Gütersloh
 Anna-Voß-Straße 15 Gütersloh
 Anna-Voß-Straße 16 Gütersloh
 Anna-Voß-Straße 17 Gütersloh
+Anna-Voß-Straße 18 Gütersloh
 Anna-Voß-Straße 19 Gütersloh
 Anna-Voß-Straße 2 Gütersloh
 Anna-Voß-Straße 20 Gütersloh
@@ -2251,6 +2252,7 @@ Auf dem Knüll 44 Gütersloh
 Auf dem Knüll 45 Gütersloh
 Auf dem Knüll 46 Gütersloh
 Auf dem Knüll 47 Gütersloh
+Auf dem Knüll 48 Gütersloh
 Auf dem Knüll 49 Gütersloh
 Auf dem Knüll 5 Gütersloh
 Auf dem Knüll 50 Gütersloh
@@ -2260,11 +2262,12 @@ Auf dem Knüll 53 Gütersloh
 Auf dem Knüll 54 Gütersloh
 Auf dem Knüll 55 Gütersloh
 Auf dem Knüll 56 Gütersloh
+Auf dem Knüll 57 Gütersloh
 Auf dem Knüll 58 Gütersloh
+Auf dem Knüll 59 Gütersloh
 Auf dem Knüll 6 Gütersloh
 Auf dem Knüll 60 Gütersloh
 Auf dem Knüll 61 Gütersloh
-Auf dem Knüll 62 Gütersloh
 Auf dem Knüll 63 Gütersloh
 Auf dem Knüll 65 Gütersloh
 Auf dem Knüll 66 Gütersloh
@@ -4039,7 +4042,6 @@ Blankenhagener Weg 75 Gütersloh
 Blankenhagener Weg 77 Gütersloh
 Blankenhagener Weg 79 Gütersloh
 Blankenhagener Weg 81 Gütersloh
-Blankenhagener Weg 83 Gütersloh
 Blankenhagener Weg 85 Gütersloh
 Blankenhagener Weg 91 Gütersloh
 Bleiweg 1 Gütersloh
@@ -4715,6 +4717,7 @@ Brockweg 170 d Gütersloh
 Brockweg 172 Gütersloh
 Brockweg 172 a Gütersloh
 Brockweg 174 Gütersloh
+Brockweg 176 Gütersloh
 Brockweg 178 Gütersloh
 Brockweg 178 a Gütersloh
 Brockweg 18 Gütersloh
@@ -5063,24 +5066,23 @@ Bultmannstraße 42 Gütersloh
 Bultmannstraße 42 a Gütersloh
 Bultmannstraße 42 b Gütersloh
 Bultmannstraße 43 Gütersloh
+Bultmannstraße 44 a Gütersloh
+Bultmannstraße 44 b Gütersloh
 Bultmannstraße 44 c Gütersloh
 Bultmannstraße 44 d Gütersloh
 Bultmannstraße 45 Gütersloh
 Bultmannstraße 46 a Gütersloh
 Bultmannstraße 46 b Gütersloh
+Bultmannstraße 46 c Gütersloh
 Bultmannstraße 46 d Gütersloh
 Bultmannstraße 47 Gütersloh
 Bultmannstraße 48 a Gütersloh
-Bultmannstraße 48 c Gütersloh
+Bultmannstraße 48 b Gütersloh
 Bultmannstraße 48 d Gütersloh
 Bultmannstraße 49 Gütersloh
-Bultmannstraße 50 c Gütersloh
 Bultmannstraße 50 d Gütersloh
 Bultmannstraße 51 Gütersloh
 Bultmannstraße 51 a Gütersloh
-Bultmannstraße 52 a Gütersloh
-Bultmannstraße 52 b Gütersloh
-Bultmannstraße 52 c Gütersloh
 Bultmannstraße 52 d Gütersloh
 Bultmannstraße 53 Gütersloh
 Bultmannstraße 53 a Gütersloh
@@ -6391,6 +6393,8 @@ Doheermanns Höhe 37 Gütersloh
 Doheermanns Höhe 37 a Gütersloh
 Doheermanns Höhe 38 Gütersloh
 Doheermanns Höhe 39 a Gütersloh
+Doheermanns Höhe 39 b Gütersloh
+Doheermanns Höhe 39 c Gütersloh
 Doheermanns Höhe 39 d Gütersloh
 Doheermanns Höhe 39 e Gütersloh
 Doheermanns Höhe 39 f Gütersloh
@@ -6400,8 +6404,6 @@ Doheermanns Höhe 4 Gütersloh
 Doheermanns Höhe 40 a Gütersloh
 Doheermanns Höhe 40 b Gütersloh
 Doheermanns Höhe 41 a Gütersloh
-Doheermanns Höhe 41 c Gütersloh
-Doheermanns Höhe 41 d Gütersloh
 Doheermanns Höhe 41 h Gütersloh
 Doheermanns Höhe 42 a Gütersloh
 Doheermanns Höhe 42 b Gütersloh
@@ -6411,18 +6413,17 @@ Doheermanns Höhe 46 a Gütersloh
 Doheermanns Höhe 46 b Gütersloh
 Doheermanns Höhe 46 c Gütersloh
 Doheermanns Höhe 48 a Gütersloh
+Doheermanns Höhe 48 b Gütersloh
 Doheermanns Höhe 48 c Gütersloh
+Doheermanns Höhe 48 d Gütersloh
 Doheermanns Höhe 48 e Gütersloh
+Doheermanns Höhe 48 f Gütersloh
 Doheermanns Höhe 48 g Gütersloh
+Doheermanns Höhe 48 h Gütersloh
 Doheermanns Höhe 5 Gütersloh
-Doheermanns Höhe 50 c Gütersloh
-Doheermanns Höhe 50 f Gütersloh
-Doheermanns Höhe 50 g Gütersloh
+Doheermanns Höhe 50 a Gütersloh
 Doheermanns Höhe 50 h Gütersloh
 Doheermanns Höhe 51 Gütersloh
-Doheermanns Höhe 52 a Gütersloh
-Doheermanns Höhe 52 b Gütersloh
-Doheermanns Höhe 52 c Gütersloh
 Doheermanns Höhe 52 h Gütersloh
 Doheermanns Höhe 53 Gütersloh
 Doheermanns Höhe 54 Gütersloh
@@ -6676,9 +6677,11 @@ Dresdner Straße 6 Gütersloh
 Dresdner Straße 6 a Gütersloh
 Dresdner Straße 6 b Gütersloh
 Dresdner Straße 6 c Gütersloh
+Dresdner Straße 60 Gütersloh
 Dresdner Straße 61 Gütersloh
 Dresdner Straße 62 Gütersloh
 Dresdner Straße 63 Gütersloh
+Dresdner Straße 64 Gütersloh
 Dresdner Straße 65 Gütersloh
 Dresdner Straße 66 Gütersloh
 Dresdner Straße 67 Gütersloh
@@ -6686,6 +6689,7 @@ Dresdner Straße 68 Gütersloh
 Dresdner Straße 69 Gütersloh
 Dresdner Straße 70 Gütersloh
 Dresdner Straße 71 Gütersloh
+Dresdner Straße 72 Gütersloh
 Dresdner Straße 73 Gütersloh
 Dresdner Straße 74 Gütersloh
 Dresdner Straße 75 Gütersloh
@@ -7460,6 +7464,7 @@ Elisabethstraße 35 Gütersloh
 Elisabethstraße 36 Gütersloh
 Elisabethstraße 38 Gütersloh
 Elisabethstraße 4 Gütersloh
+Elisabethstraße 40 Gütersloh
 Elisabethstraße 41 Gütersloh
 Elisabethstraße 43 Gütersloh
 Elisabethstraße 48 Gütersloh
@@ -8545,10 +8550,10 @@ Franckestraße 35 Gütersloh
 Franckestraße 37 Gütersloh
 Franckestraße 39 Gütersloh
 Franckestraße 4 Gütersloh
+Franckestraße 41 Gütersloh
 Franckestraße 43 Gütersloh
 Franckestraße 45 Gütersloh
 Franckestraße 47 Gütersloh
-Franckestraße 49 Gütersloh
 Franckestraße 5 Gütersloh
 Franckestraße 51 Gütersloh
 Franckestraße 55 Gütersloh
@@ -9123,13 +9128,13 @@ Friedrichsdorfer Straße 68 Gütersloh
 Friedrichsdorfer Straße 69 Gütersloh
 Friedrichsdorfer Straße 71 Gütersloh
 Friedrichsdorfer Straße 72 Gütersloh
+Friedrichsdorfer Straße 78 Gütersloh
 Friedrichsdorfer Straße 78 a Gütersloh
 Friedrichsdorfer Straße 80 Gütersloh
 Friedrichsdorfer Straße 82 Gütersloh
 Friedrichsdorfer Straße 82 a Gütersloh
 Friedrichsdorfer Straße 84 Gütersloh
 Friedrichsdorfer Straße 86 Gütersloh
-Friedrichsdorfer Straße 88 Gütersloh
 Friedrichsdorfer Straße 88 b Gütersloh
 Friedrichstraße 1 Gütersloh
 Friedrichstraße 10 Gütersloh
@@ -9281,7 +9286,6 @@ Fröbelstraße 4 Gütersloh
 Fröbelstraße 40 Gütersloh
 Fröbelstraße 41 Gütersloh
 Fröbelstraße 42 Gütersloh
-Fröbelstraße 43 Gütersloh
 Fröbelstraße 44 Gütersloh
 Fröbelstraße 45 Gütersloh
 Fröbelstraße 46 Gütersloh
@@ -9504,28 +9508,32 @@ Geranienweg 26 Gütersloh
 Geranienweg 3 Gütersloh
 Geranienweg 5 Gütersloh
 Geranienweg 7 Gütersloh
+Gerhart-Hauptmann-Straße 1 Gütersloh
+Gerhart-Hauptmann-Straße 10 Gütersloh
 Gerhart-Hauptmann-Straße 11 Gütersloh
+Gerhart-Hauptmann-Straße 12 Gütersloh
+Gerhart-Hauptmann-Straße 13 Gütersloh
 Gerhart-Hauptmann-Straße 14 Gütersloh
 Gerhart-Hauptmann-Straße 15 Gütersloh
 Gerhart-Hauptmann-Straße 16 Gütersloh
+Gerhart-Hauptmann-Straße 17 Gütersloh
+Gerhart-Hauptmann-Straße 18 Gütersloh
 Gerhart-Hauptmann-Straße 19 Gütersloh
+Gerhart-Hauptmann-Straße 2 Gütersloh
+Gerhart-Hauptmann-Straße 20 Gütersloh
+Gerhart-Hauptmann-Straße 21 Gütersloh
 Gerhart-Hauptmann-Straße 24 Gütersloh
-Gerhart-Hauptmann-Straße 25 Gütersloh
-Gerhart-Hauptmann-Straße 27 Gütersloh
 Gerhart-Hauptmann-Straße 3 Gütersloh
 Gerhart-Hauptmann-Straße 30 Gütersloh
 Gerhart-Hauptmann-Straße 31 Gütersloh
 Gerhart-Hauptmann-Straße 36 Gütersloh
 Gerhart-Hauptmann-Straße 37 Gütersloh
 Gerhart-Hauptmann-Straße 39 Gütersloh
-Gerhart-Hauptmann-Straße 4 Gütersloh
 Gerhart-Hauptmann-Straße 42 Gütersloh
 Gerhart-Hauptmann-Straße 44 Gütersloh
 Gerhart-Hauptmann-Straße 46 Gütersloh
-Gerhart-Hauptmann-Straße 6 Gütersloh
 Gerhart-Hauptmann-Straße 7 Gütersloh
 Gerhart-Hauptmann-Straße 8 Gütersloh
-Gerhart-Hauptmann-Straße 9 Gütersloh
 Gerstenweg 10 Gütersloh
 Gerstenweg 12 Gütersloh
 Gerstenweg 14 Gütersloh
@@ -9661,8 +9669,11 @@ Glockengießerstraße 9 Gütersloh
 Gneisenaustraße 1 Gütersloh
 Gneisenaustraße 11 Gütersloh
 Gneisenaustraße 11 a Gütersloh
+Gneisenaustraße 12 Gütersloh
 Gneisenaustraße 13 Gütersloh
+Gneisenaustraße 14 Gütersloh
 Gneisenaustraße 16 Gütersloh
+Gneisenaustraße 18 Gütersloh
 Gneisenaustraße 20 Gütersloh
 Gneisenaustraße 22 Gütersloh
 Gneisenaustraße 24 Gütersloh
@@ -9670,7 +9681,6 @@ Gneisenaustraße 26 Gütersloh
 Gneisenaustraße 28 Gütersloh
 Gneisenaustraße 30 Gütersloh
 Gneisenaustraße 31 Gütersloh
-Gneisenaustraße 32 Gütersloh
 Gneisenaustraße 33 Gütersloh
 Gneisenaustraße 34 Gütersloh
 Gneisenaustraße 35 Gütersloh
@@ -10138,8 +10148,11 @@ Guerickestraße 10 Gütersloh
 Guerickestraße 12 Gütersloh
 Guerickestraße 14 Gütersloh
 Guerickestraße 15 Gütersloh
+Guerickestraße 15 a Gütersloh
+Guerickestraße 17 Gütersloh
 Guerickestraße 17 a Gütersloh
 Guerickestraße 19 Gütersloh
+Guerickestraße 19 a Gütersloh
 Guerickestraße 20 Gütersloh
 Guerickestraße 20 a Gütersloh
 Guerickestraße 21 Gütersloh
@@ -10147,35 +10160,35 @@ Guerickestraße 21 a Gütersloh
 Guerickestraße 22 Gütersloh
 Guerickestraße 23 Gütersloh
 Guerickestraße 23 a Gütersloh
-Guerickestraße 23 b Gütersloh
 Guerickestraße 24 Gütersloh
-Guerickestraße 25 a Gütersloh
 Guerickestraße 25 b Gütersloh
 Guerickestraße 26 Gütersloh
 Guerickestraße 27 Gütersloh
 Guerickestraße 27 a Gütersloh
 Guerickestraße 27 b Gütersloh
 Guerickestraße 28 Gütersloh
+Guerickestraße 29 Gütersloh
 Guerickestraße 29 a Gütersloh
+Guerickestraße 29 b Gütersloh
+Guerickestraße 31 Gütersloh
+Guerickestraße 31 a Gütersloh
+Guerickestraße 31 b Gütersloh
 Guerickestraße 33 Gütersloh
-Guerickestraße 33 a Gütersloh
-Guerickestraße 33 b Gütersloh
-Guerickestraße 35 a Gütersloh
-Guerickestraße 37 b Gütersloh
 Guerickestraße 39 Gütersloh
 Guerickestraße 39 a Gütersloh
 Guerickestraße 39 b Gütersloh
 Guerickestraße 4 Gütersloh
 Guerickestraße 41 Gütersloh
 Guerickestraße 41 a Gütersloh
+Guerickestraße 43 Gütersloh
 Guerickestraße 43 a Gütersloh
 Guerickestraße 45 Gütersloh
+Guerickestraße 45 a Gütersloh
 Guerickestraße 47 Gütersloh
 Guerickestraße 47 a Gütersloh
 Guerickestraße 49 Gütersloh
 Guerickestraße 49 a Gütersloh
 Guerickestraße 5 Gütersloh
-Guerickestraße 51 Gütersloh
 Guerickestraße 53 a Gütersloh
 Guerickestraße 57 Gütersloh
 Guerickestraße 6 Gütersloh
@@ -10553,6 +10566,7 @@ Haller Straße 149 Gütersloh
 Haller Straße 150 Gütersloh
 Haller Straße 151 Gütersloh
 Haller Straße 153 a Gütersloh
+Haller Straße 153 b Gütersloh
 Haller Straße 153 c Gütersloh
 Haller Straße 153 d Gütersloh
 Haller Straße 154 Gütersloh
@@ -10562,7 +10576,6 @@ Haller Straße 155 c Gütersloh
 Haller Straße 155 d Gütersloh
 Haller Straße 157 a Gütersloh
 Haller Straße 157 b Gütersloh
-Haller Straße 157 c Gütersloh
 Haller Straße 157 d Gütersloh
 Haller Straße 171 Gütersloh
 Haller Straße 177 Gütersloh
@@ -11570,11 +11583,11 @@ Hermann-Hesse-Straße 11 Gütersloh
 Hermann-Hesse-Straße 12 Gütersloh
 Hermann-Hesse-Straße 14 Gütersloh
 Hermann-Hesse-Straße 16 Gütersloh
+Hermann-Hesse-Straße 2 Gütersloh
 Hermann-Hesse-Straße 2 a Gütersloh
 Hermann-Hesse-Straße 3 Gütersloh
 Hermann-Hesse-Straße 4 Gütersloh
 Hermann-Hesse-Straße 5 Gütersloh
-Hermann-Hesse-Straße 6 Gütersloh
 Hermann-Hesse-Straße 7 Gütersloh
 Hermann-Hesse-Straße 8 Gütersloh
 Hermann-Hesse-Straße 9 Gütersloh
@@ -12389,6 +12402,7 @@ Holzheide 65 Gütersloh
 Holzheide 70 Gütersloh
 Holzrichterstraße 1 Gütersloh
 Holzrichterstraße 10 Gütersloh
+Holzrichterstraße 10 a Gütersloh
 Holzrichterstraße 10 b Gütersloh
 Holzrichterstraße 10 c Gütersloh
 Holzrichterstraße 11 Gütersloh
@@ -13939,8 +13953,6 @@ James-Watt-Straße 7 Gütersloh
 James-Watt-Straße 8 Gütersloh
 James-Watt-Straße 9 Gütersloh
 Jenaer Straße 1 Gütersloh
-Jenaer Straße 10 Gütersloh
-Jenaer Straße 12 Gütersloh
 Jenaer Straße 14 Gütersloh
 Jenaer Straße 16 Gütersloh
 Jenaer Straße 18 Gütersloh
@@ -16052,7 +16064,6 @@ Linteler Straße 30 Gütersloh
 Linteler Straße 32 Gütersloh
 Linteler Straße 85 Gütersloh
 Lobbenfeld 15 Gütersloh
-Lobbenfeld 17 Gütersloh
 Lobbenfeld 18 Gütersloh
 Lobbenfeld 20 Gütersloh
 Lobbenfeld 22 Gütersloh
@@ -16060,7 +16071,6 @@ Lobbenfeld 23 Gütersloh
 Lobbenfeld 25 Gütersloh
 Lobbenfeld 27 Gütersloh
 Lobbenfeld 29 Gütersloh
-Lobbenfeld 3 Gütersloh
 Lobbenfeld 31 Gütersloh
 Lobbenfeld 33 Gütersloh
 Lobbenfeld 35 Gütersloh
@@ -16069,7 +16079,6 @@ Lobbenfeld 39 Gütersloh
 Lobbenfeld 6 Gütersloh
 Lobbenfeld 7 Gütersloh
 Lobbenfeld 8 Gütersloh
-Lobbenfeld 9 Gütersloh
 Loerpabelsweg 1 Gütersloh
 Loerpabelsweg 1 a Gütersloh
 Loerpabelsweg 15 Gütersloh
@@ -16270,6 +16279,7 @@ Luise-Hensel-Straße 74 a Gütersloh
 Luise-Hensel-Straße 81 Gütersloh
 Luise-Hensel-Straße 83 Gütersloh
 Luise-Hensel-Straße 85 Gütersloh
+Luisenstraße 10 Gütersloh
 Luisenstraße 11 Gütersloh
 Luisenstraße 12 Gütersloh
 Luisenstraße 13 Gütersloh
@@ -16282,6 +16292,7 @@ Luisenstraße 19 a Gütersloh
 Luisenstraße 19 b Gütersloh
 Luisenstraße 2 Gütersloh
 Luisenstraße 2 a Gütersloh
+Luisenstraße 20 Gütersloh
 Luisenstraße 21 Gütersloh
 Luisenstraße 22 Gütersloh
 Luisenstraße 23 Gütersloh
@@ -16289,7 +16300,6 @@ Luisenstraße 24 Gütersloh
 Luisenstraße 26 Gütersloh
 Luisenstraße 26 a Gütersloh
 Luisenstraße 26 b Gütersloh
-Luisenstraße 27 Gütersloh
 Luisenstraße 28 Gütersloh
 Luisenstraße 29 Gütersloh
 Luisenstraße 31 Gütersloh
@@ -16309,7 +16319,6 @@ Luisenstraße 42 Gütersloh
 Luisenstraße 43 Gütersloh
 Luisenstraße 6 Gütersloh
 Luisenstraße 7 Gütersloh
-Luisenstraße 8 Gütersloh
 Lukasstraße 14 Gütersloh
 Lukasstraße 16 Gütersloh
 Lukasstraße 18 Gütersloh
@@ -16822,9 +16831,7 @@ Marienfelder Straße 357 a Gütersloh
 Marienfelder Straße 357 b Gütersloh
 Marienfelder Straße 357 c Gütersloh
 Marienfelder Straße 357 d Gütersloh
-Marienfelder Straße 359 Gütersloh
 Marienfelder Straße 359 a Gütersloh
-Marienfelder Straße 359 b Gütersloh
 Marienfelder Straße 361 Gütersloh
 Marienfelder Straße 37 Gütersloh
 Marienfelder Straße 378 Gütersloh
@@ -18271,6 +18278,7 @@ Nordhorner Straße 52 Gütersloh
 Nordhorner Straße 53 Gütersloh
 Nordhorner Straße 54 Gütersloh
 Nordhorner Straße 55 Gütersloh
+Nordhorner Straße 55 a Gütersloh
 Nordhorner Straße 56 Gütersloh
 Nordhorner Straße 57 Gütersloh
 Nordhorner Straße 58 Gütersloh
@@ -19232,19 +19240,22 @@ Parkstraße 8 Gütersloh
 Parkstraße 9 Gütersloh
 Parsevalstraße 1 Gütersloh
 Parsevalstraße 10 Gütersloh
+Parsevalstraße 11 Gütersloh
+Parsevalstraße 12 Gütersloh
 Parsevalstraße 13 Gütersloh
 Parsevalstraße 14 Gütersloh
+Parsevalstraße 15 Gütersloh
+Parsevalstraße 16 Gütersloh
 Parsevalstraße 18 Gütersloh
 Parsevalstraße 2 Gütersloh
+Parsevalstraße 20 Gütersloh
 Parsevalstraße 22 Gütersloh
 Parsevalstraße 26 Gütersloh
-Parsevalstraße 3 Gütersloh
 Parsevalstraße 30 Gütersloh
 Parsevalstraße 34 Gütersloh
 Parsevalstraße 38 Gütersloh
 Parsevalstraße 5 Gütersloh
 Parsevalstraße 6 Gütersloh
-Parsevalstraße 7 Gütersloh
 Parsevalstraße 9 Gütersloh
 Paul-Gerhardt-Straße 1 Gütersloh
 Paul-Gerhardt-Straße 10 Gütersloh
@@ -20444,6 +20455,7 @@ Reithallenweg 35 a Gütersloh
 Reithallenweg 54 Gütersloh
 Reithallenweg 56 Gütersloh
 Reithallenweg 57 Gütersloh
+Reithallenweg 58 Gütersloh
 Reithallenweg 61 Gütersloh
 Reithallenweg 62 Gütersloh
 Reithallenweg 63 Gütersloh
@@ -22418,6 +22430,7 @@ Spiekergarten 10 Gütersloh
 Spiekergarten 101 Gütersloh
 Spiekergarten 103 Gütersloh
 Spiekergarten 105 Gütersloh
+Spiekergarten 107 Gütersloh
 Spiekergarten 109 Gütersloh
 Spiekergarten 111 Gütersloh
 Spiekergarten 113 Gütersloh
@@ -22445,6 +22458,7 @@ Spiekergarten 31 Gütersloh
 Spiekergarten 33 Gütersloh
 Spiekergarten 34 Gütersloh
 Spiekergarten 35 Gütersloh
+Spiekergarten 37 Gütersloh
 Spiekergarten 39 Gütersloh
 Spiekergarten 40 Gütersloh
 Spiekergarten 41 Gütersloh
@@ -22458,6 +22472,7 @@ Spiekergarten 55 Gütersloh
 Spiekergarten 57 Gütersloh
 Spiekergarten 59 Gütersloh
 Spiekergarten 60 Gütersloh
+Spiekergarten 61 Gütersloh
 Spiekergarten 63 Gütersloh
 Spiekergarten 65 Gütersloh
 Spiekergarten 67 Gütersloh
@@ -22466,16 +22481,17 @@ Spiekergarten 7 Gütersloh
 Spiekergarten 7 a Gütersloh
 Spiekergarten 71 Gütersloh
 Spiekergarten 73 Gütersloh
+Spiekergarten 75 Gütersloh
 Spiekergarten 77 Gütersloh
 Spiekergarten 79 Gütersloh
 Spiekergarten 81 Gütersloh
 Spiekergarten 83 Gütersloh
 Spiekergarten 85 Gütersloh
 Spiekergarten 87 Gütersloh
+Spiekergarten 89 Gütersloh
 Spiekergarten 91 Gütersloh
 Spiekergarten 93 Gütersloh
 Spiekergarten 95 Gütersloh
-Spiekergarten 97 Gütersloh
 Spiekergarten 99 Gütersloh
 Spiekergasse 1 Gütersloh
 Spiekergasse 10 Gütersloh
@@ -23695,20 +23711,19 @@ Thesings Allee 7 Gütersloh
 Thesings Allee 7 a Gütersloh
 Thesings Allee 8 Gütersloh
 Thesings Allee 9 Gütersloh
+Thomas-Mann-Straße 10 Gütersloh
+Thomas-Mann-Straße 11 Gütersloh
+Thomas-Mann-Straße 12 Gütersloh
+Thomas-Mann-Straße 13 Gütersloh
 Thomas-Mann-Straße 14 Gütersloh
 Thomas-Mann-Straße 15 Gütersloh
 Thomas-Mann-Straße 16 Gütersloh
 Thomas-Mann-Straße 17 Gütersloh
-Thomas-Mann-Straße 19 Gütersloh
+Thomas-Mann-Straße 18 Gütersloh
 Thomas-Mann-Straße 20 Gütersloh
-Thomas-Mann-Straße 21 Gütersloh
-Thomas-Mann-Straße 22 Gütersloh
-Thomas-Mann-Straße 23 Gütersloh
 Thomas-Mann-Straße 24 Gütersloh
-Thomas-Mann-Straße 25 Gütersloh
 Thomas-Mann-Straße 28 Gütersloh
 Thomas-Mann-Straße 32 Gütersloh
-Thomas-Mann-Straße 33 Gütersloh
 Thomas-Mann-Straße 36 Gütersloh
 Thomas-Mann-Straße 4 Gütersloh
 Thomas-Mann-Straße 41 Gütersloh
@@ -23716,7 +23731,6 @@ Thomas-Mann-Straße 41 b Gütersloh
 Thomas-Mann-Straße 43 Gütersloh
 Thomas-Mann-Straße 47 Gütersloh
 Thomas-Mann-Straße 51 Gütersloh
-Thomas-Mann-Straße 7 Gütersloh
 Thomas-Mann-Straße 8 Gütersloh
 Thomas-Mann-Straße 9 Gütersloh
 Thomas-Morus-Straße 10 Gütersloh
@@ -24999,9 +25013,12 @@ Westfalenweg 15 Gütersloh
 Westfalenweg 16 Gütersloh
 Westfalenweg 17 Gütersloh
 Westfalenweg 18 Gütersloh
+Westfalenweg 19 Gütersloh
 Westfalenweg 2 Gütersloh
 Westfalenweg 20 Gütersloh
+Westfalenweg 21 Gütersloh
 Westfalenweg 22 Gütersloh
+Westfalenweg 23 Gütersloh
 Westfalenweg 24 Gütersloh
 Westfalenweg 24 a Gütersloh
 Westfalenweg 24 b Gütersloh
@@ -25014,7 +25031,6 @@ Westfalenweg 27 Gütersloh
 Westfalenweg 28 Gütersloh
 Westfalenweg 29 Gütersloh
 Westfalenweg 29 a Gütersloh
-Westfalenweg 3 Gütersloh
 Westfalenweg 30 a Gütersloh
 Westfalenweg 30 b Gütersloh
 Westfalenweg 31 Gütersloh
@@ -25028,7 +25044,6 @@ Westfalenweg 42 Gütersloh
 Westfalenweg 44 Gütersloh
 Westfalenweg 46 Gütersloh
 Westfalenweg 48 Gütersloh
-Westfalenweg 5 Gütersloh
 Westfalenweg 50 Gütersloh
 Westfalenweg 52 Gütersloh
 Westfalenweg 54 Gütersloh
@@ -25045,7 +25060,6 @@ Westfalenweg 65 Gütersloh
 Westfalenweg 66 Gütersloh
 Westfalenweg 67 Gütersloh
 Westfalenweg 68 Gütersloh
-Westfalenweg 7 Gütersloh
 Westfalenweg 70 Gütersloh
 Westfalenweg 72 Gütersloh
 Westfalenweg 74 Gütersloh
@@ -25826,7 +25840,6 @@ Zeisigweg 8 a Gütersloh
 Zeisigweg 9 Gütersloh
 Zeppelinstraße 1 Gütersloh
 Zeppelinstraße 10 Gütersloh
-Zeppelinstraße 11 Gütersloh
 Zeppelinstraße 12 Gütersloh
 Zeppelinstraße 13 Gütersloh
 Zeppelinstraße 14 Gütersloh
@@ -25836,14 +25849,12 @@ Zeppelinstraße 18 Gütersloh
 Zeppelinstraße 2 Gütersloh
 Zeppelinstraße 20 Gütersloh
 Zeppelinstraße 21 Gütersloh
-Zeppelinstraße 23 Gütersloh
 Zeppelinstraße 25 Gütersloh
 Zeppelinstraße 29 Gütersloh
 Zeppelinstraße 33 Gütersloh
 Zeppelinstraße 4 Gütersloh
 Zeppelinstraße 5 Gütersloh
 Zeppelinstraße 6 Gütersloh
-Zeppelinstraße 7 Gütersloh
 Zeppelinstraße 8 Gütersloh
 Zeppelinstraße 9 Gütersloh
 Ziegeleiweg 6 Gütersloh
