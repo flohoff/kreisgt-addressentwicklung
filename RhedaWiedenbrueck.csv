@@ -1,4 +1,5 @@
 AUREA 1 Rheda-Wiedenbrück
+AUREA 10 Rheda-Wiedenbrück
 AUREA 2 Rheda-Wiedenbrück
 AUREA 3 Rheda-Wiedenbrück
 AUREA 4 Rheda-Wiedenbrück
@@ -1158,24 +1159,25 @@ Am Zollbrett 14 Rheda-Wiedenbrück
 Am Zollbrett 15 Rheda-Wiedenbrück
 Am Zollbrett 16 Rheda-Wiedenbrück
 Am Zollbrett 17 Rheda-Wiedenbrück
-Am Zollbrett 18 Rheda-Wiedenbrück
 Am Zollbrett 19 Rheda-Wiedenbrück
-Am Zollbrett 20 Rheda-Wiedenbrück
 Am Zollbrett 21 Rheda-Wiedenbrück
 Am Zollbrett 22 Rheda-Wiedenbrück
 Am Zollbrett 23 Rheda-Wiedenbrück
 Am Zollbrett 24 Rheda-Wiedenbrück
-Am Zollbrett 26 Rheda-Wiedenbrück
-Am Zollbrett 28 Rheda-Wiedenbrück
 Am Zollbrett 29 Rheda-Wiedenbrück
 Am Zollbrett 3 Rheda-Wiedenbrück
 Am Zollbrett 30 Rheda-Wiedenbrück
 Am Zollbrett 32 Rheda-Wiedenbrück
 Am Zollbrett 33 Rheda-Wiedenbrück
 Am Zollbrett 34 Rheda-Wiedenbrück
-Am Zollbrett 36 Rheda-Wiedenbrück
+Am Zollbrett 35 Rheda-Wiedenbrück
 Am Zollbrett 4 Rheda-Wiedenbrück
 Am Zollbrett 41 Rheda-Wiedenbrück
+Am Zollbrett 42 Rheda-Wiedenbrück
+Am Zollbrett 44 Rheda-Wiedenbrück
+Am Zollbrett 48 Rheda-Wiedenbrück
+Am Zollbrett 54 Rheda-Wiedenbrück
+Am Zollbrett 56 Rheda-Wiedenbrück
 Am Zollbrett 6 Rheda-Wiedenbrück
 Am Zollbrett 64 Rheda-Wiedenbrück
 Am Zollbrett 68 Rheda-Wiedenbrück
@@ -1914,15 +1916,14 @@ Beckerpassage 1 Rheda-Wiedenbrück
 Beckerpassage 10 Rheda-Wiedenbrück
 Beckerpassage 12 Rheda-Wiedenbrück
 Beckerpassage 14 Rheda-Wiedenbrück
-Beckerpassage 16 Rheda-Wiedenbrück
 Beckerpassage 18 Rheda-Wiedenbrück
-Beckerpassage 2 Rheda-Wiedenbrück
 Beckerpassage 20 Rheda-Wiedenbrück
-Beckerpassage 22 Rheda-Wiedenbrück
-Beckerpassage 24 Rheda-Wiedenbrück
-Beckerpassage 26 Rheda-Wiedenbrück
-Beckerpassage 28 Rheda-Wiedenbrück
 Beckerpassage 3 Rheda-Wiedenbrück
+Beckerpassage 38 Rheda-Wiedenbrück
+Beckerpassage 4 Rheda-Wiedenbrück
+Beckerpassage 40 Rheda-Wiedenbrück
+Beckerpassage 46 Rheda-Wiedenbrück
+Beckerpassage 50 Rheda-Wiedenbrück
 Beckerpassage 52 Rheda-Wiedenbrück
 Beckerpassage 8 Rheda-Wiedenbrück
 Beckumer Straße 1 Rheda-Wiedenbrück
@@ -2028,7 +2029,6 @@ Berliner Straße 52 Rheda-Wiedenbrück
 Berliner Straße 53 Rheda-Wiedenbrück
 Berliner Straße 54 Rheda-Wiedenbrück
 Berliner Straße 55 Rheda-Wiedenbrück
-Berliner Straße 56 Rheda-Wiedenbrück
 Berliner Straße 57 Rheda-Wiedenbrück
 Berliner Straße 58 Rheda-Wiedenbrück
 Berliner Straße 59 Rheda-Wiedenbrück
@@ -2038,7 +2038,6 @@ Berliner Straße 6 b Rheda-Wiedenbrück
 Berliner Straße 60 Rheda-Wiedenbrück
 Berliner Straße 62 Rheda-Wiedenbrück
 Berliner Straße 63 Rheda-Wiedenbrück
-Berliner Straße 64 Rheda-Wiedenbrück
 Berliner Straße 65 Rheda-Wiedenbrück
 Berliner Straße 66 Rheda-Wiedenbrück
 Berliner Straße 7 Rheda-Wiedenbrück
@@ -2427,6 +2426,7 @@ Bosfeld 26 Rheda-Wiedenbrück
 Bosfeld 27 Rheda-Wiedenbrück
 Bosfeld 28 Rheda-Wiedenbrück
 Bosfeld 3 Rheda-Wiedenbrück
+Bosfeld 30 Rheda-Wiedenbrück
 Bosfeld 31 Rheda-Wiedenbrück
 Bosfeld 33 Rheda-Wiedenbrück
 Bosfeld 34 Rheda-Wiedenbrück
@@ -3428,18 +3428,19 @@ Düsternstraße 8 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 1 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 10 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 12 Rheda-Wiedenbrück
-Eduard-Mörike-Straße 14 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 16 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 18 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 2 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 20 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 3 Rheda-Wiedenbrück
-Eduard-Mörike-Straße 4 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 5 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 6 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 7 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 8 Rheda-Wiedenbrück
 Eduard-Mörike-Straße 8 a Rheda-Wiedenbrück
+Eduard-Mörike-Straße 8 b Rheda-Wiedenbrück
+Eduard-Mörike-Straße 8 c Rheda-Wiedenbrück
+Eduard-Mörike-Straße 8 e Rheda-Wiedenbrück
 Eduard-Mörike-Straße 8 f Rheda-Wiedenbrück
 Egerstraße 1 Rheda-Wiedenbrück
 Egerstraße 1 a Rheda-Wiedenbrück
@@ -4474,6 +4475,7 @@ Gotenweg 3 Rheda-Wiedenbrück
 Gotenweg 4 Rheda-Wiedenbrück
 Gotenweg 5 Rheda-Wiedenbrück
 Gotenweg 6 Rheda-Wiedenbrück
+Gotenweg 6 a Rheda-Wiedenbrück
 Gotenweg 7 Rheda-Wiedenbrück
 Gotenweg 8 Rheda-Wiedenbrück
 Gotenweg 9 Rheda-Wiedenbrück
@@ -4593,7 +4595,6 @@ Grädiekstraße 28 Rheda-Wiedenbrück
 Grädiekstraße 3 Rheda-Wiedenbrück
 Grädiekstraße 30 Rheda-Wiedenbrück
 Grädiekstraße 32 Rheda-Wiedenbrück
-Grädiekstraße 32 a Rheda-Wiedenbrück
 Grädiekstraße 34 Rheda-Wiedenbrück
 Grädiekstraße 36 Rheda-Wiedenbrück
 Grädiekstraße 38 Rheda-Wiedenbrück
@@ -4624,7 +4625,6 @@ Grünstraße 7 Rheda-Wiedenbrück
 Grünstraße 8 Rheda-Wiedenbrück
 Grünstraße 9 Rheda-Wiedenbrück
 Gut Clarenhof 6 Rheda-Wiedenbrück
-Gänsemarkt 1 Rheda-Wiedenbrück
 Gänsemarkt 11 Rheda-Wiedenbrück
 Gänsemarkt 13 Rheda-Wiedenbrück
 Gänsemarkt 13 a Rheda-Wiedenbrück
@@ -4660,7 +4660,6 @@ Gütersloher Straße 16 Rheda-Wiedenbrück
 Gütersloher Straße 17 Rheda-Wiedenbrück
 Gütersloher Straße 18 Rheda-Wiedenbrück
 Gütersloher Straße 18 a Rheda-Wiedenbrück
-Gütersloher Straße 2 Rheda-Wiedenbrück
 Gütersloher Straße 20 Rheda-Wiedenbrück
 Gütersloher Straße 20 a Rheda-Wiedenbrück
 Gütersloher Straße 22 Rheda-Wiedenbrück
@@ -4688,7 +4687,6 @@ Gütersloher Straße 54 Rheda-Wiedenbrück
 Gütersloher Straße 56 Rheda-Wiedenbrück
 Gütersloher Straße 58 Rheda-Wiedenbrück
 Gütersloher Straße 58 a Rheda-Wiedenbrück
-Gütersloher Straße 6 Rheda-Wiedenbrück
 Gütersloher Straße 60 Rheda-Wiedenbrück
 Gütersloher Straße 60 a Rheda-Wiedenbrück
 Gütersloher Straße 60 b Rheda-Wiedenbrück
@@ -5530,6 +5528,7 @@ Herderstraße 6 Rheda-Wiedenbrück
 Herderstraße 8 Rheda-Wiedenbrück
 Herderstraße 9 Rheda-Wiedenbrück
 Hermann-Löns-Weg 1 Rheda-Wiedenbrück
+Hermann-Löns-Weg 12 Rheda-Wiedenbrück
 Hermann-Löns-Weg 15 Rheda-Wiedenbrück
 Hermann-Löns-Weg 2 Rheda-Wiedenbrück
 Hermann-Löns-Weg 3 Rheda-Wiedenbrück
@@ -8741,6 +8740,7 @@ Nordring 56 a Rheda-Wiedenbrück
 Nordring 58 Rheda-Wiedenbrück
 Nordring 60 Rheda-Wiedenbrück
 Nordring 62 Rheda-Wiedenbrück
+Nordring 63 Rheda-Wiedenbrück
 Nordring 64 Rheda-Wiedenbrück
 Nordring 65 Rheda-Wiedenbrück
 Nordring 66 Rheda-Wiedenbrück
@@ -8900,13 +8900,13 @@ Osnabrücker Ring 18 a Rheda-Wiedenbrück
 Osnabrücker Ring 19 Rheda-Wiedenbrück
 Osnabrücker Ring 2 Rheda-Wiedenbrück
 Osnabrücker Ring 20 Rheda-Wiedenbrück
-Osnabrücker Ring 20 a Rheda-Wiedenbrück
 Osnabrücker Ring 20 b Rheda-Wiedenbrück
 Osnabrücker Ring 21 Rheda-Wiedenbrück
 Osnabrücker Ring 22 Rheda-Wiedenbrück
 Osnabrücker Ring 22 a Rheda-Wiedenbrück
 Osnabrücker Ring 22 b Rheda-Wiedenbrück
 Osnabrücker Ring 24 Rheda-Wiedenbrück
+Osnabrücker Ring 24 c Rheda-Wiedenbrück
 Osnabrücker Ring 24 d Rheda-Wiedenbrück
 Osnabrücker Ring 26 Rheda-Wiedenbrück
 Osnabrücker Ring 28 Rheda-Wiedenbrück
@@ -9876,6 +9876,7 @@ Rietberger Straße 76 Rheda-Wiedenbrück
 Rietberger Straße 78 Rheda-Wiedenbrück
 Rietberger Straße 8 Rheda-Wiedenbrück
 Rietberger Straße 80 Rheda-Wiedenbrück
+Rietberger Straße 81 Rheda-Wiedenbrück
 Rietberger Straße 84 Rheda-Wiedenbrück
 Rietberger Straße 85 Rheda-Wiedenbrück
 Rietberger Straße 86 Rheda-Wiedenbrück
@@ -10468,6 +10469,9 @@ Schlickbruch 8 Rheda-Wiedenbrück
 Schlickbruch 9 Rheda-Wiedenbrück
 Schloßstraße 12 Rheda-Wiedenbrück
 Schloßstraße 2 Rheda-Wiedenbrück
+Schloßstraße 4 a Rheda-Wiedenbrück
+Schloßstraße 6 Rheda-Wiedenbrück
+Schloßstraße 6 a Rheda-Wiedenbrück
 Schloßstraße 6 b Rheda-Wiedenbrück
 Schmale Straße 1 Rheda-Wiedenbrück
 Schmale Straße 1 a Rheda-Wiedenbrück
@@ -12394,6 +12398,7 @@ Westring 42 Rheda-Wiedenbrück
 Westring 56 Rheda-Wiedenbrück
 Westring 58 Rheda-Wiedenbrück
 Westring 6 Rheda-Wiedenbrück
+Westring 6 a Rheda-Wiedenbrück
 Westring 60 Rheda-Wiedenbrück
 Westring 64 Rheda-Wiedenbrück
 Westring 66 Rheda-Wiedenbrück
