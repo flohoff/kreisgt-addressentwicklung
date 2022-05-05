@@ -810,6 +810,7 @@ Am Weinberg 8 Rietberg
 Am Westwall 1 Rietberg
 Am Westwall 2 Rietberg
 Am Westwall 20 Rietberg
+Am Westwall 58 Rietberg
 Am Wiesenpfad 1 Rietberg
 Am Wiesenpfad 11 Rietberg
 Am Wiesenpfad 13 Rietberg
@@ -1160,6 +1161,7 @@ Bahnhofstraße 14 a Rietberg
 Bahnhofstraße 18 Rietberg
 Bahnhofstraße 19 Rietberg
 Bahnhofstraße 19 a Rietberg
+Bahnhofstraße 19 b Rietberg
 Bahnhofstraße 20 Rietberg
 Bahnhofstraße 21 Rietberg
 Bahnhofstraße 22 Rietberg
@@ -2448,6 +2450,7 @@ Drosselweg 25 Rietberg
 Drosselweg 27 Rietberg
 Drosselweg 29 Rietberg
 Drosselweg 3 Rietberg
+Drosselweg 3 a Rietberg
 Drosselweg 4 Rietberg
 Drosselweg 5 Rietberg
 Drosselweg 5 a Rietberg
@@ -2548,6 +2551,7 @@ Duhmes Wiese 1 Rietberg
 Duhmes Wiese 10 Rietberg
 Duhmes Wiese 11 Rietberg
 Duhmes Wiese 12 Rietberg
+Duhmes Wiese 14 Rietberg
 Duhmes Wiese 16 Rietberg
 Duhmes Wiese 17 Rietberg
 Duhmes Wiese 18 Rietberg
@@ -2610,6 +2614,10 @@ Eberhard-Unkraut-Straße 33 a Rietberg
 Eberhard-Unkraut-Straße 33 b Rietberg
 Eberhard-Unkraut-Straße 35 Rietberg
 Eberhard-Unkraut-Straße 37 Rietberg
+Eberhard-Unkraut-Straße 38 Rietberg
+Eberhard-Unkraut-Straße 38 a Rietberg
+Eberhard-Unkraut-Straße 38 b Rietberg
+Eberhard-Unkraut-Straße 38 c Rietberg
 Eberhard-Unkraut-Straße 4 Rietberg
 Eberhard-Unkraut-Straße 41 Rietberg
 Eberhard-Unkraut-Straße 43 Rietberg
@@ -2803,6 +2811,8 @@ Emsbruch 5 Rietberg
 Emsbruch 7 Rietberg
 Emsbruch 8 Rietberg
 Emsbruch 9 Rietberg
+Emsländer Weg 1 Rietberg
+Emsländer Weg 3 Rietberg
 Emsstraße 1 Rietberg
 Emsstraße 10 Rietberg
 Emsstraße 11 Rietberg
@@ -3999,7 +4009,9 @@ Holtkampstraße 8 a Rietberg
 Holtkampstraße 9 Rietberg
 Holunderweg 1 Rietberg
 Holunderweg 2 Rietberg
+Holunderweg 3 Rietberg
 Holunderweg 4 Rietberg
+Holunderweg 5 Rietberg
 Holunderweg 6 Rietberg
 Holzheide 10 Rietberg
 Holzheide 2 Rietberg
@@ -4043,6 +4055,7 @@ Höppeweg 1 Rietberg
 Höppeweg 1 a Rietberg
 Höppeweg 10 Rietberg
 Höppeweg 10 a Rietberg
+Höppeweg 10 b Rietberg
 Höppeweg 11 Rietberg
 Höppeweg 12 Rietberg
 Höppeweg 13 Rietberg
@@ -4717,6 +4730,8 @@ Jahnstraße 8 b Rietberg
 Jahnstraße 9 Rietberg
 Jakobistraße 1 Rietberg
 Jakobistraße 13 Rietberg
+Jakobistraße 15 Rietberg
+Jakobistraße 16 Rietberg
 Jakobistraße 17 Rietberg
 Jakobistraße 18 Rietberg
 Jakobistraße 19 Rietberg
@@ -4984,6 +4999,7 @@ Katthagenstraße 11 Rietberg
 Katthagenstraße 12 Rietberg
 Katthagenstraße 13 Rietberg
 Katthagenstraße 15 Rietberg
+Katthagenstraße 16 Rietberg
 Katthagenstraße 17 Rietberg
 Katthagenstraße 18 Rietberg
 Katthagenstraße 19 Rietberg
@@ -5392,6 +5408,7 @@ Krumme Straße 7 Rietberg
 Krumme Straße 8 Rietberg
 Krumme Straße 9 Rietberg
 Krögerstraße 1 Rietberg
+Krögerstraße 1 a Rietberg
 Krögerstraße 11 Rietberg
 Krögerstraße 14 Rietberg
 Krögerstraße 18 Rietberg
@@ -5577,6 +5594,7 @@ Lange Straße 88 Rietberg
 Lange Straße 89 Rietberg
 Lange Straße 9 Rietberg
 Lange Straße 91 Rietberg
+Lange Straße 91 b Rietberg
 Lange Straße 92 Rietberg
 Lange Straße 93 Rietberg
 Lange Straße 93 a Rietberg
@@ -6084,6 +6102,7 @@ Markenstraße 230 a Rietberg
 Markenstraße 252 Rietberg
 Markenstraße 3 Rietberg
 Markenstraße 30 Rietberg
+Markenstraße 307 Rietberg
 Markenstraße 309 Rietberg
 Markenstraße 309 a Rietberg
 Markenstraße 309 b Rietberg
@@ -7321,6 +7340,11 @@ Rottwiese 61 Rietberg
 Rottwiese 65 Rietberg
 Rottwiese 71 Rietberg
 Rottwiese 73 Rietberg
+Rudolf-Bracht-Weg 15 Rietberg
+Rudolf-Bracht-Weg 21 Rietberg
+Rudolf-Bracht-Weg 5 Rietberg
+Rudolf-Bracht-Weg 7 Rietberg
+Rudolf-Bracht-Weg 9 Rietberg
 Rügenstraße 1 Rietberg
 Rügenstraße 10 Rietberg
 Rügenstraße 11 Rietberg
@@ -7939,6 +7963,7 @@ Stienhöferstraße 59 Rietberg
 Stienhöferstraße 59 a Rietberg
 Stienhöferstraße 60 Rietberg
 Stienhöferstraße 61 Rietberg
+Stienhöferstraße 63 Rietberg
 Stienhöferstraße 65 Rietberg
 Stienhöferstraße 66 Rietberg
 Stienhöferstraße 66 a Rietberg
@@ -8337,10 +8362,12 @@ Vennstraße 5 Rietberg
 Vennstraße 51 Rietberg
 Vennstraße 7 Rietberg
 Vennstraße 71 Rietberg
+Vennstraße 71 a Rietberg
 Vennstraße 74 Rietberg
 Vennstraße 75 Rietberg
 Vennstraße 77 Rietberg
 Vennstraße 83 Rietberg
+Vennstraße 83 a Rietberg
 Vennstraße 84 Rietberg
 Vennstraße 86 Rietberg
 Vennstraße 87 Rietberg
