@@ -640,7 +640,6 @@ Binnerweg 55 a Verl
 Binnerweg 69 Verl
 Binsenweg 10 Verl
 Binsenweg 11 Verl
-Binsenweg 13 Verl
 Binsenweg 15 Verl
 Binsenweg 17 Verl
 Binsenweg 2 Verl
@@ -1797,6 +1796,7 @@ Feldweg 1 Verl
 Feldweg 1 a Verl
 Feldweg 10 Verl
 Feldweg 10 a Verl
+Feldweg 10 c Verl
 Feldweg 11 Verl
 Feldweg 12 Verl
 Feldweg 13 Verl
@@ -2329,7 +2329,6 @@ Grillenstraße 9 a Verl
 Grubenweg 10 Verl
 Grubenweg 18 Verl
 Grubenweg 27 Verl
-Grubenweg 36 Verl
 Grubenweg 9 Verl
 Grundweg 36 Verl
 Grundweg 37 Verl
@@ -3773,6 +3772,7 @@ Leinenweg 28 Verl
 Leinenweg 28 a Verl
 Leinenweg 29 Verl
 Leinenweg 34 Verl
+Leinenweg 36 Verl
 Leinenweg 4 Verl
 Leinenweg 41 Verl
 Leinenweg 45 Verl
@@ -4240,7 +4240,6 @@ Mergelweg 58 Verl
 Mergelweg 60 Verl
 Mergelweg 62 Verl
 Mergelweg 64 Verl
-Mergelweg 66 Verl
 Messingstraße 15 Verl
 Messingstraße 16 Verl
 Messingstraße 24 Verl
@@ -5568,8 +5567,9 @@ Sielhorstweg 17 Verl
 Sielhorstweg 19 Verl
 Siemensstraße 15 Verl
 Siemensstraße 19 Verl
-Sinnerbrinksweg 12 Verl
 Sinnerbrinksweg 14 Verl
+Sinnerbrinksweg 14 a Verl
+Sinnerbrinksweg 2 Verl
 Sinnerbrinksweg 31 Verl
 Sinnerbrinksweg 4 Verl
 Sinnerbrinksweg 44 Verl
@@ -6015,6 +6015,7 @@ Teutoburger Straße 43 Verl
 Teutoburger Straße 45 Verl
 Teutoburger Straße 46 Verl
 Teutoburger Straße 47 Verl
+Teutoburger Straße 47 a Verl
 Teutoburger Straße 48 Verl
 Teutoburger Straße 49 Verl
 Teutoburger Straße 5 Verl
@@ -6177,6 +6178,7 @@ Theresienweg 20 Verl
 Theresienweg 21 Verl
 Theresienweg 22 Verl
 Theresienweg 23 Verl
+Theresienweg 23 a Verl
 Theresienweg 24 Verl
 Theresienweg 25 Verl
 Theresienweg 25 a Verl
@@ -6226,6 +6228,8 @@ Titanweg 16 Verl
 Titanweg 4 Verl
 Titanweg 5 Verl
 Titanweg 6 Verl
+Titanweg 6 a Verl
+Titanweg 6 b Verl
 Titanweg 8 Verl
 Titanweg 9 Verl
 Trakehner Straße 1 Verl
@@ -6235,6 +6239,7 @@ Trakehner Straße 11 Verl
 Trakehner Straße 13 Verl
 Trakehner Straße 13 a Verl
 Trakehner Straße 14 Verl
+Trakehner Straße 14 a Verl
 Trakehner Straße 15 Verl
 Trakehner Straße 16 Verl
 Trakehner Straße 17 Verl
@@ -6460,6 +6465,7 @@ Westerwieher Straße 58 Verl
 Westerwieher Straße 60 Verl
 Westerwieher Straße 60 a Verl
 Westerwieher Straße 69 Verl
+Westerwieher Straße 69 a Verl
 Westfalenweg 1 Verl
 Westfalenweg 103 Verl
 Westfalenweg 105 Verl
@@ -6855,12 +6861,14 @@ Zollhausweg 17 Verl
 Zollhausweg 25 Verl
 Zollhausweg 27 Verl
 Zollhausweg 29 Verl
+Zollhausweg 3 Verl
 Zollhausweg 31 Verl
 Zollhausweg 33 Verl
 Zollhausweg 34 Verl
 Zollhausweg 35 Verl
 Zollhausweg 36 Verl
 Zollhausweg 37 Verl
+Zollhausweg 37 a Verl
 Zollhausweg 43 Verl
 Zollhausweg 5 Verl
 Zollhausweg 53 Verl
@@ -6873,6 +6881,7 @@ Zollhausweg 66 a Verl
 Zollhausweg 66 b Verl
 Zollhausweg 66 c Verl
 Zollhausweg 68 Verl
+Zollhausweg 7 Verl
 Zollhausweg 70 Verl
 Zollhausweg 9 Verl
 Zum Alten Stau 4 Verl
@@ -6910,6 +6919,7 @@ Zum Furlbach 117 Verl
 Zum Furlbach 2 Verl
 Zum Furlbach 28 Verl
 Zum Furlbach 37 Verl
+Zum Furlbach 37 a Verl
 Zum Furlbach 38 Verl
 Zum Furlbach 39 Verl
 Zum Furlbach 4 Verl
@@ -7058,7 +7068,6 @@ Zur GEPAG 2 Verl
 Österwieher Straße 153 Verl
 Österwieher Straße 154 Verl
 Österwieher Straße 155 Verl
-Österwieher Straße 156 Verl
 Österwieher Straße 16 Verl
 Österwieher Straße 160 Verl
 Österwieher Straße 161 Verl
