@@ -1,22 +1,21 @@
  15 b Verl
+ 24 Verl
+ 30 Verl
  39 Verl
- 45 Verl
- 45 a Verl
  49 Verl
  57 a Verl
- 64 Verl
- 66 Verl
  66 b Verl
  66 c Verl
  67 Verl
+ 68 Verl
  69 Verl
  70 Verl
- 72 Verl
+ 71 Verl
  73 Verl
  74 Verl
- 77 Verl
+ 75 Verl
+ 78 Verl
  78 b Verl
- 79 Verl
  80 Verl
  81 Verl
  83 Verl
@@ -293,7 +292,6 @@ Am Ölbach 137 Verl
 Am Ölbach 148 Verl
 Am Ölbach 159 Verl
 Am Ölbach 179 Verl
-Am Ölbach 23 Verl
 Am Ölbach 264 Verl
 Am Ölbach 266 Verl
 Am Ölbach 278 Verl
@@ -495,7 +493,9 @@ Asternweg 4 Verl
 Asternweg 6 Verl
 Asternweg 7 Verl
 Asternweg 8 Verl
+Bachweg 10 a Verl
 Bachweg 22 Verl
+Bachweg 35 Verl
 Bahnhofstraße 11 Verl
 Bahnhofstraße 11 a Verl
 Bahnhofstraße 12 Verl
@@ -4757,6 +4757,8 @@ Peitzweg 20 Verl
 Peitzweg 21 Verl
 Peitzweg 22 Verl
 Peitzweg 23 Verl
+Peitzweg 24 Verl
+Peitzweg 26 Verl
 Peitzweg 28 Verl
 Peitzweg 30 Verl
 Peitzweg 4 Verl
